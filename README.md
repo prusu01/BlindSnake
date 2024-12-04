@@ -30,7 +30,6 @@ I created a Python script that generates the commands in the required format and
   
 Some of the best results I managed to achieve with this:
 
-![alt text](image50k-100k.png)
 ![alt text](plot_bun.png)
 ![alt text](<Image 0-1M2.png>)
 ![alt text](<Image 0-1M2.png>)
